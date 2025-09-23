@@ -20,7 +20,7 @@ Here are some ideas to get you started:
       </ul>
     </td>
     <td>
-      <img src="./profile-3d-contrib/profile-season.svg" width="400" alt="3D Contribution Graph" />
+      <img src="./profile-3d-contrib/profile-season.svg" width="600" alt="3D Contribution Graph" />
     </td>
   </tr>
 </table>
