@@ -10,17 +10,14 @@ As a developer I worked using the stack Javascript with Node.js, and working as 
 Nowadays I have my main project WorkoutPlatform using the stack SpringBoot-Java with React-Javascript. I hope you get knowledgement rich cloning and reading my repositories.
 If you wanna to create something, contact with me by my social medias.
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanfreits&layout=compact)
+
 
 
 <table>
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on Workout-Platform</li>
-        <li>🌱 I’m currently learning HCL</li>
-        <li>👯 I’m looking to collaborate on ...</li>
-        <li>📫 How to reach me: ...</li>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanfreits&layout=compact)
       </ul>
     </td>
     <td>
