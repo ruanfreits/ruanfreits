@@ -14,7 +14,6 @@ If you wanna to create something, contact with me by my social medias.
 ## 🥇 Certifications 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate%20003-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)
 <table>
   <tr>
     <td>
