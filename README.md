@@ -5,13 +5,22 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Workout-Platform
-- 🌱 I’m currently learning HCL
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img src="./profile-3d-contrib/profile-season.svg" width="500" alt="3D Contribution Graph" />
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on Workout-Platform</li>
+        <li>🌱 I’m currently learning HCL</li>
+        <li>👯 I’m looking to collaborate on ...</li>
+        <li>🤔 I’m looking for help with ...</li>
+        <li>💬 Ask me about ...</li>
+        <li>📫 How to reach me: ...</li>
+        <li>😄 Pronouns: ...</li>
+        <li>⚡ Fun fact: ...</li>
+      </ul>
+    </td>
+    <td>
+      <img src="./profile-3d-contrib/profile-season.svg" width="400" alt="3D Contribution Graph" />
+    </td>
+  </tr>
+</table>
