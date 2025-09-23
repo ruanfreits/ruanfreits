@@ -11,6 +11,9 @@ Nowadays I have my main project WorkoutPlatform using the stack SpringBoot-Java 
 If you wanna to create something, contact with me by my social medias.
 <br>
 
+# 🥇 Certifications 
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 <table>
   <tr>
     <td>
@@ -21,7 +24,3 @@ If you wanna to create something, contact with me by my social medias.
     </td>
   </tr>
 </table>
-
-## 🏅 Certificações 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
