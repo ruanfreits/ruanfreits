@@ -11,14 +11,12 @@ Nowadays I have my main project WorkoutPlatform using the stack SpringBoot-Java 
 If you wanna to create something, contact with me by my social medias.
 <br>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanfreits&layout=compact)
 
 <table>
   <tr>
     <td>
-      <ul>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanfreits&layout=compact)
-      </ul>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanfreits&layout=compact" alt="Top Languages" />
     </td>
     <td>
       <img src="./profile-3d-contrib/profile-season-animate.svg" width="600" alt="3D Contribution Graph" />
