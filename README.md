@@ -20,3 +20,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+## 🏅 Certificações 
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
